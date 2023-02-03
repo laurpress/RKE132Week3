@@ -1,0 +1,15 @@
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/IfDayOfTheWeek/obj/Debug/net7.0/IfDayOfTheWeek.csproj.AssemblyReference.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/IfDayOfTheWeek/obj/Debug/net7.0/IfDayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/IfDayOfTheWeek/obj/Debug/net7.0/IfDayOfTheWeek.AssemblyInfoInputs.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/IfDayOfTheWeek/obj/Debug/net7.0/IfDayOfTheWeek.AssemblyInfo.cs
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/IfDayOfTheWeek/obj/Debug/net7.0/IfDayOfTheWeek.csproj.CoreCompileInputs.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/IfDayOfTheWeek/bin/Debug/net7.0/IfDayOfTheWeek
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/IfDayOfTheWeek/bin/Debug/net7.0/IfDayOfTheWeek.deps.json
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/IfDayOfTheWeek/bin/Debug/net7.0/IfDayOfTheWeek.runtimeconfig.json
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/IfDayOfTheWeek/bin/Debug/net7.0/IfDayOfTheWeek.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/IfDayOfTheWeek/bin/Debug/net7.0/IfDayOfTheWeek.pdb
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/IfDayOfTheWeek/obj/Debug/net7.0/IfDayOfTheWeek.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/IfDayOfTheWeek/obj/Debug/net7.0/refint/IfDayOfTheWeek.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/IfDayOfTheWeek/obj/Debug/net7.0/IfDayOfTheWeek.pdb
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/IfDayOfTheWeek/obj/Debug/net7.0/IfDayOfTheWeek.genruntimeconfig.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/IfDayOfTheWeek/obj/Debug/net7.0/ref/IfDayOfTheWeek.dll

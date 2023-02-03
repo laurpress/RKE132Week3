@@ -1,0 +1,15 @@
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/Week3IfandSwitch/bin/Debug/net7.0/Week3IfandSwitch
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/Week3IfandSwitch/bin/Debug/net7.0/Week3IfandSwitch.deps.json
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/Week3IfandSwitch/bin/Debug/net7.0/Week3IfandSwitch.runtimeconfig.json
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/Week3IfandSwitch/bin/Debug/net7.0/Week3IfandSwitch.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/Week3IfandSwitch/bin/Debug/net7.0/Week3IfandSwitch.pdb
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/Week3IfandSwitch/obj/Debug/net7.0/Week3IfandSwitch.csproj.AssemblyReference.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/Week3IfandSwitch/obj/Debug/net7.0/Week3IfandSwitch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/Week3IfandSwitch/obj/Debug/net7.0/Week3IfandSwitch.AssemblyInfoInputs.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/Week3IfandSwitch/obj/Debug/net7.0/Week3IfandSwitch.AssemblyInfo.cs
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/Week3IfandSwitch/obj/Debug/net7.0/Week3IfandSwitch.csproj.CoreCompileInputs.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/Week3IfandSwitch/obj/Debug/net7.0/Week3IfandSwitch.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/Week3IfandSwitch/obj/Debug/net7.0/refint/Week3IfandSwitch.dll
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/Week3IfandSwitch/obj/Debug/net7.0/Week3IfandSwitch.pdb
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/Week3IfandSwitch/obj/Debug/net7.0/Week3IfandSwitch.genruntimeconfig.cache
+/Users/laurpress/Desktop/tktk/3.aasta/proge2/Week3IfandSwitch/Week3IfandSwitch/obj/Debug/net7.0/ref/Week3IfandSwitch.dll
